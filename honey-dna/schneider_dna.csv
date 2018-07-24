@@ -1,5 +1,5 @@
 ﻿Sample ID,Location,Consensus Lineage Sum,Consensus Lineage Proportion,Consensus Lineage: 25 species (79.34%) > 1%; 141 species < 1% (20.17%),Common Name,Rank Scientific,Taxonomic Frequency,Interpretation
-S005751.Schneider,"Waccabuc,NY",99.51%,15.38%,d__Viridiplantae; k__Streptophyta; p__rosids; c__Fagales; o__Fagaceae; f__; g__Quercus; ; s__,Oaks,Genus,2,2 occurrences of Oaks genus represent 15.38% of sample
+S005751.Schneider,"XXXXXX,XX",99.51%,15.38%,d__Viridiplantae; k__Streptophyta; p__rosids; c__Fagales; o__Fagaceae; f__; g__Quercus; ; s__,Oaks,Genus,2,2 occurrences of Oaks genus represent 15.38% of sample
 ,,,13.95%,d__Viridiplantae; k__Streptophyta; p__rosids; c__Sapindales; o__Aceraceae; f__; g__Acer; ; s__,Maples,Genus,18,18 occurrences of the Maples genus represent 13.95% of the sample
 ,,,8.16%,d__Viridiplantae; k__Streptophyta; p__; c__Magnoliales; o__Magnoliaceae; f__; g__Magnolia; ; s__,Magnolias,Genus,2,2 occurrences of Magnolias genus represent 8.16% of the sample
 ,,,4.23%,d__Viridiplantae; k__Streptophyta; p__asterids; c__Lamiales; o__Oleaceae; f__; g__Ligustrum; ; s__,Privets,Genus,1,
