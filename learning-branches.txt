@@ -1,0 +1,3 @@
+## I want to determine how I should structure my bee-stuff repo in particular and my repo structure strategy in particular. 
+# I think I should leave the #**bee-stuff**# repo intact and create separate branches for each folder within it. 
+#### From that point on, I need to test if I can branch off and work within each separate branch I've created.
