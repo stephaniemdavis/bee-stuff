@@ -1,0 +1,50 @@
+---
+title: "R Notebook"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+
+```{r}
+# BBC 2018 honey harvest results for 2019 USDA Survey
+# Written by Stephanie M. Davis for Sophie Cheney-BBC
+# February 18, 2019
+```
+
+```{r}
+# libraries lubridate, tidyverse
+library(tidyverse)
+library(lubridate)
+library(readxl)
+```
+
+```{r}
+# Read the csv file using read_csv
+df_csv <- read_csv("csv_harvest_tog_to_be_cleaned.csv",skip = 117,col_names = c("foreignHiveID","InvoiceID","RegionID","VisitID","HarvestID","BottleCount","BottleSize","BottleType","BottleDate","DeliverDate","HarvestDate","Ignore","Title","Weight","RunningWeight","ForeignHarvestStatus","ClosedFlag","HarvestStatus","HarvestYear","foreignClientID","Cluster","InHouseID","HiveID","Address","City","HiveName","State","Zip","ClientID","Company","LastName","FullName"),col_types = "nnnnnnncccc?cdncnccncnnccccnnccc")
+
+```
+
+```{r}
+# Select the columns to be used for analysis & read as df: 
+df <- select(df_csv,Title,State,HarvestYear,HarvestDate,Weight,HiveID)
+str(df) 
+```
+
+```{r}
+# parse df by filtering Weight > 0, omitting specific titles (Special Reserve, SELF HARVEST,etc.). arrange by Title, State, HiveID
+df_dirty <- df %>% filter(HarvestYear == 2018, Weight > 0, !Title %in% c("Special Reserve","special reserve","Self Harvest","Test","SELF HARVEST","1 SELF HARV", "3 frames - self harvest", "DATA LOST","Left w/client to harvest","Cherubini-Alvarez","Special Reserves","Special reserve","Client bought","Client Bought SR","Client ordered Special Reserve")) %>% arrange(Title,State,HiveID)
+
+```
+
+```{r}
+df_dirty %>% group_by(State) %>% summarize(Weight = as.integer(sum(Weight)),UniqueHives = n_distinct(HiveID)) %>% arrange(desc(Weight))
+                                                              harvest_2018 <- df_dirty    
+```
+```{r}
+# save df_final as a csv file
+write_csv(harvest_2018,'usdafinal.csv')
+```
+

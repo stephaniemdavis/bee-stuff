@@ -1,0 +1,613 @@
+Title,State,HarvestYear,HarvestDate,Weight,HiveID
+1050 Winter,MA,2018,10/16/2018,14.7,484
+1050 Winter,MA,2018,07/31/2018,24.08,484
+135 Santilli Highway,MA,2018,07/19/2018,20.16,1696
+2 frames,MA,2018,03/23/2018,7.5,1975
+Alfano,MA,2018,10/10/2018,31.5,2176
+Autum’s Ambrosia,MA,2018,10/22/2018,15,2262
+Autum’s Ambrosia,MA,2018,11/01/2018,18,2326
+Autum’s Ambrosia,MA,2018,10/04/2018,10.5,2343
+Autumn's Ambrosia,MA,2018,10/31/2018,7.5,2319
+Autumn’s Ambrosia,CT,2018,09/27/2018,13.5,1879
+Autumn’s Ambrosia,MA,2018,10/19/2018,24,28
+Autumn’s Ambrosia,MA,2018,10/01/2018,33,33
+Autumn’s Ambrosia,MA,2018,10/24/2018,24,41
+Autumn’s Ambrosia,MA,2018,10/24/2018,21,42
+Autumn’s Ambrosia,MA,2018,10/03/2018,27.75,47
+Autumn’s Ambrosia,MA,2018,10/03/2018,18.75,48
+Autumn’s Ambrosia,MA,2018,10/03/2018,9,49
+Autumn’s Ambrosia,MA,2018,10/29/2018,3.75,57
+Autumn’s Ambrosia,MA,2018,10/29/2018,4.5,77
+Autumn’s Ambrosia,MA,2018,10/25/2018,18,83
+Autumn’s Ambrosia,MA,2018,10/22/2018,19.5,105
+Autumn’s Ambrosia,MA,2018,10/16/2018,22.5,111
+Autumn’s Ambrosia,MA,2018,11/12/2018,9,112
+Autumn’s Ambrosia,MA,2018,10/16/2018,10.5,113
+Autumn’s Ambrosia,MA,2018,10/31/2018,24,119
+Autumn’s Ambrosia,MA,2018,10/01/2018,28.5,141
+Autumn’s Ambrosia,MA,2018,09/26/2018,17.25,181
+Autumn’s Ambrosia,MA,2018,10/04/2018,12,193
+Autumn’s Ambrosia,MA,2018,09/26/2018,7.5,207
+Autumn’s Ambrosia,MA,2018,09/26/2018,7.5,210
+Autumn’s Ambrosia,MA,2018,09/26/2018,15,211
+Autumn’s Ambrosia,MA,2018,09/26/2018,6,213
+Autumn’s Ambrosia,MA,2018,10/22/2018,6,217
+Autumn’s Ambrosia,MA,2018,10/04/2018,3.36,222
+Autumn’s Ambrosia,MA,2018,10/02/2018,6.3,280
+Autumn’s Ambrosia,MA,2018,10/02/2018,6.16,281
+Autumn’s Ambrosia,MA,2018,10/26/2018,1.68,310
+Autumn’s Ambrosia,MA,2018,11/01/2018,18,311
+Autumn’s Ambrosia,MA,2018,10/31/2018,4.5,314
+Autumn’s Ambrosia,MA,2018,09/26/2018,16.875,319
+Autumn’s Ambrosia,MA,2018,10/22/2018,27,339
+Autumn’s Ambrosia,MA,2018,10/30/2018,3,345
+Autumn’s Ambrosia,MA,2018,11/01/2018,21,352
+Autumn’s Ambrosia,MA,2018,10/03/2018,13.5,429
+Autumn’s Ambrosia,MA,2018,10/04/2018,24,441
+Autumn’s Ambrosia,MA,2018,10/01/2018,16.125,455
+Autumn’s Ambrosia,MA,2018,10/16/2018,25.5,462
+Autumn’s Ambrosia,MA,2018,10/17/2018,34.5,464
+Autumn’s Ambrosia,MA,2018,10/30/2018,5.04,471
+Autumn’s Ambrosia,MA,2018,10/16/2018,7.5,508
+Autumn’s Ambrosia,MA,2018,10/31/2018,13.5,527
+Autumn’s Ambrosia,MA,2018,09/26/2018,16.5,587
+Autumn’s Ambrosia,MA,2018,09/26/2018,21.75,588
+Autumn’s Ambrosia,MA,2018,09/27/2018,16.5,618
+Autumn’s Ambrosia,MA,2018,10/19/2018,1.5,622
+Autumn’s Ambrosia,MA,2018,10/04/2018,6,649
+Autumn’s Ambrosia,MA,2018,10/22/2018,15,680
+Autumn’s Ambrosia,MA,2018,09/27/2018,4.5,688
+Autumn’s Ambrosia,MA,2018,10/17/2018,4.5,748
+Autumn’s Ambrosia,MA,2018,09/27/2018,5.625,752
+Autumn’s Ambrosia,MA,2018,10/17/2018,25.5,753
+Autumn’s Ambrosia,MA,2018,11/05/2018,7.5,756
+Autumn’s Ambrosia,MA,2018,11/01/2018,3,786
+Autumn’s Ambrosia,MA,2018,11/01/2018,19,790
+Autumn’s Ambrosia,MA,2018,10/10/2018,3,818
+Autumn’s Ambrosia,MA,2018,10/31/2018,21.84,824
+Autumn’s Ambrosia,MA,2018,10/24/2018,21.375,843
+Autumn’s Ambrosia,MA,2018,09/27/2018,10.5,858
+Autumn’s Ambrosia,MA,2018,09/27/2018,24,859
+Autumn’s Ambrosia,MA,2018,11/06/2018,6,863
+Autumn’s Ambrosia,MA,2018,10/24/2018,3,864
+Autumn’s Ambrosia,MA,2018,10/31/2018,19.5,989
+Autumn’s Ambrosia,MA,2018,10/25/2018,12,991
+Autumn’s Ambrosia,MA,2018,10/30/2018,4.5,992
+Autumn’s Ambrosia,MA,2018,10/19/2018,12,1004
+Autumn’s Ambrosia,MA,2018,10/16/2018,17.92,1036
+Autumn’s Ambrosia,MA,2018,10/16/2018,16.8,1037
+Autumn’s Ambrosia,MA,2018,09/26/2018,4.125,1041
+Autumn’s Ambrosia,MA,2018,10/24/2018,7.5,1089
+Autumn’s Ambrosia,MA,2018,11/06/2018,15,1102
+Autumn’s Ambrosia,MA,2018,10/25/2018,18,1193
+Autumn’s Ambrosia,MA,2018,10/23/2018,1,1198
+Autumn’s Ambrosia,MA,2018,10/18/2018,9,1246
+Autumn’s Ambrosia,MA,2018,10/26/2018,21,1252
+Autumn’s Ambrosia,MA,2018,10/04/2018,4.5,1256
+Autumn’s Ambrosia,MA,2018,10/22/2018,13.5,1271
+Autumn’s Ambrosia,MA,2018,10/01/2018,9,1274
+Autumn’s Ambrosia,MA,2018,10/25/2018,3,1302
+Autumn’s Ambrosia,MA,2018,10/03/2018,15,1370
+Autumn’s Ambrosia,MA,2018,10/25/2018,4.5,1371
+Autumn’s Ambrosia,MA,2018,10/12/2018,10.5,1401
+Autumn’s Ambrosia,MA,2018,10/16/2018,13.5,1416
+Autumn’s Ambrosia,MA,2018,10/12/2018,15.375,1515
+Autumn’s Ambrosia,MA,2018,10/03/2018,20.16,1696
+Autumn’s Ambrosia,MA,2018,10/16/2018,30,1703
+Autumn’s Ambrosia,MA,2018,11/12/2018,28.5,1706
+Autumn’s Ambrosia,MA,2018,11/12/2018,14.25,1707
+Autumn’s Ambrosia,MA,2018,11/01/2018,13.5,1710
+Autumn’s Ambrosia,MA,2018,10/23/2018,18,1722
+Autumn’s Ambrosia,MA,2018,10/01/2018,20.625,1724
+Autumn’s Ambrosia,MA,2018,11/01/2018,6,1727
+Autumn’s Ambrosia,MA,2018,11/02/2018,15,1734
+Autumn’s Ambrosia,MA,2018,10/24/2018,12,1736
+Autumn’s Ambrosia,MA,2018,10/03/2018,6,1742
+Autumn’s Ambrosia,MA,2018,10/31/2018,10.5,1746
+Autumn’s Ambrosia,MA,2018,10/31/2018,19.5,1751
+Autumn’s Ambrosia,MA,2018,10/16/2018,25.5,1754
+Autumn’s Ambrosia,MA,2018,10/01/2018,3.375,1759
+Autumn’s Ambrosia,MA,2018,10/09/2018,12,1768
+Autumn’s Ambrosia,MA,2018,10/12/2018,4.5,1839
+Autumn’s Ambrosia,MA,2018,10/22/2018,21,1850
+Autumn’s Ambrosia,MA,2018,10/12/2018,18,1862
+Autumn’s Ambrosia,MA,2018,10/10/2018,18,1864
+Autumn’s Ambrosia,MA,2018,10/16/2018,21,1866
+Autumn’s Ambrosia,MA,2018,10/25/2018,15.75,1882
+Autumn’s Ambrosia,MA,2018,10/16/2018,12,1887
+Autumn’s Ambrosia,MA,2018,10/31/2018,7.5,1914
+Autumn’s Ambrosia,MA,2018,10/15/2018,4.2,1935
+Autumn’s Ambrosia,MA,2018,10/30/2018,4.5,1938
+Autumn’s Ambrosia,MA,2018,10/30/2018,10.5,1948
+Autumn’s Ambrosia,MA,2018,10/29/2018,10.5,1954
+Autumn’s Ambrosia,MA,2018,10/17/2018,10.5,1958
+Autumn’s Ambrosia,MA,2018,10/15/2018,15,1974
+Autumn’s Ambrosia,MA,2018,10/05/2018,25.5,1992
+Autumn’s Ambrosia,MA,2018,11/28/2018,12,1996
+Autumn’s Ambrosia,MA,2018,10/29/2018,51,1997
+Autumn’s Ambrosia,MA,2018,10/24/2018,21,2000
+Autumn’s Ambrosia,MA,2018,10/31/2018,22.5,2012
+Autumn’s Ambrosia,MA,2018,11/01/2018,13.5,2027
+Autumn’s Ambrosia,MA,2018,10/23/2018,7.5,2037
+Autumn’s Ambrosia,MA,2018,11/01/2018,6,2044
+Autumn’s Ambrosia,MA,2018,11/01/2018,12,2070
+Autumn’s Ambrosia,MA,2018,10/02/2018,7.5,2076
+Autumn’s Ambrosia,MA,2018,10/04/2018,10.5,2078
+Autumn’s Ambrosia,MA,2018,10/18/2018,10.5,2097
+Autumn’s Ambrosia,MA,2018,08/02/2018,13.5,2162
+Autumn’s Ambrosia,MA,2018,10/24/2018,3,2171
+Autumn’s Ambrosia,MA,2018,10/23/2018,6,2175
+Autumn’s Ambrosia,MA,2018,10/31/2018,18.75,2177
+Autumn’s Ambrosia,MA,2018,10/24/2018,3,2209
+Autumn’s Ambrosia,MA,2018,10/26/2018,4.5,2212
+Autumn’s Ambrosia,MA,2018,10/26/2018,7.56,2246
+Autumn’s Ambrosia,MA,2018,10/12/2018,19.5,2249
+Autumn’s Ambrosia,MA,2018,11/01/2018,21,2252
+Autumn’s Ambrosia,MA,2018,10/31/2018,9.24,2253
+Autumn’s Ambrosia,MA,2018,10/22/2018,5.355,2258
+Autumn’s Ambrosia,MA,2018,10/15/2018,4.5,2259
+Autumn’s Ambrosia,MA,2018,10/17/2018,15.75,2264
+Autumn’s Ambrosia,MA,2018,11/01/2018,9,2269
+Autumn’s Ambrosia,MA,2018,10/03/2018,9,2273
+Autumn’s Ambrosia,MA,2018,11/12/2018,6,2335
+Autumn’s Ambrosia,MA,2018,10/17/2018,15,2353
+Autumn’s Ambrosia,MA,2018,11/02/2018,3,2355
+Autumn’s Ambrosia,MA,2018,11/06/2018,1.5,2380
+Autumn’s Ambrosia,MA,2018,10/03/2018,9.75,2388
+Autumn’s Ambrosia,MA,2018,12/06/2018,3,2391
+Autumn’s Ambrosia,MA,2018,11/01/2018,9,2391
+Autumn’s Ambrosia,MA,2018,11/01/2018,22,2423
+Autumn’s Ambrosia,MA,2018,10/04/2018,6,2440
+Autumn’s Ambrosia,MA,2018,11/01/2018,10.5,2453
+Autumn’s Ambrosia,MA,2018,10/16/2018,4.5,2471
+Autumn’s Ambrosia,MA,2018,10/19/2018,13.5,2472
+Autumn’s Ambrosia,MA,2018,10/26/2018,24,2478
+Autumn’s Ambrosia,MA,2018,10/26/2018,30,2479
+Autumn’s Ambrosia,ME,2018,10/08/2018,7.5,1330
+Autumn’s Ambrosia,ME,2018,10/08/2018,10.5,1509
+Autumn’s Ambrosia,ME,2018,10/08/2018,3,1510
+Autumn’s Ambrosia,ME,2018,10/08/2018,18,2363
+Autumn’s Ambrosia,ME,2018,10/08/2018,3,2381
+Autumn’s Ambrosia,ME,2018,10/08/2018,4.5,2382
+Autumn’s Ambrosia,NH,2018,10/12/2018,1.5,1990
+Autumn’s Ambrosia,RI,2018,11/05/2018,6,1097
+Autumn’s Ambrosia,RI,2018,10/25/2018,27,1197
+Autumn’s Ambrosia,RI,2018,10/25/2018,6,1379
+Autumn’s Ambrosia,RI,2018,10/25/2018,10.5,1380
+Autumn’s Ambrosia,RI,2018,10/25/2018,9.24,1380
+Autumn’s Ambrosia,RI,2018,10/24/2018,19.5,1506
+Autumn’s Ambrosia,RI,2018,10/23/2018,12,1926
+Autumn’s Ambrosia,RI,2018,10/25/2018,16.5,1980
+Autumn’s Ambrosia,RI,2018,10/23/2018,10.08,2133
+Autumn’s Ambrosia,VT,2018,10/09/2018,7.5,2412
+Autumn’s Ambrosia,VT,2018,10/10/2018,9,2413
+Autumn’s Ambrosia,VT,2018,10/10/2018,7.5,2414
+Autumn’s Ambrosia,VT,2018,10/09/2018,9,2416
+Autumn’s Amrosia,MA,2018,10/04/2018,24,1157
+Autumnal Ambrosia,MA,2018,10/22/2018,31.5,318
+Autumns Ambrosia,MA,2018,10/15/2018,1.5,185
+Autumns Ambrosia,MA,2018,11/14/2018,18,1971
+Autumns Ambrosia,MA,2018,10/15/2018,8.4,2128
+autums ambrosia,MA,2018,10/24/2018,12,1435
+Autums Ambrosia,MA,2018,10/15/2018,5.25,2288
+Autums Ambrosia,RI,2018,11/05/2018,10.5,1129
+Autums Ambrosia,RI,2018,11/05/2018,18,1130
+Autums Ambrosia,RI,2018,10/23/2018,9,2331
+Baker,NY,2018,10/28/2018,8.4,2156
+Baylies,MA,2018,10/24/2018,6,1927
+Baylies,MA,2018,03/23/2018,7.5,1927
+Bondick,MA,2018,10/12/2018,3,1384
+Bonner,MA,2018,08/31/2018,5.88,2365
+Bonura,CT,2018,09/25/2018,12,2408
+Borsook,MA,2018,10/09/2018,3,1192
+Bouchier,MA,2018,04/03/2018,6.75,455
+Bowers,MA,2018,10/25/2018,45.5,378
+Brodeur,MA,2018,10/16/2018,10,1735
+Chesworth,MA,2018,10/12/2018,10.5,416
+Christo,MA,2018,08/23/2018,15,1746
+Christo,MA,2018,04/13/2018,13.5,1746
+Clark,MA,2018,08/13/2018,10.5,1102
+Clark,MA,2018,08/06/2018,9,2267
+Close,RI,2018,08/09/2018,16.5,1129
+Corman,MA,2018,10/22/2018,6,323
+Courtyard Marriott Boston Downtown,MA,2018,10/01/2018,2.25,1758
+Danila,MA,2018,10/25/2018,4.5,1190
+Danila,MA,2018,10/25/2018,10.5,1320
+Davis,MA,2018,08/11/2018,24,307
+Davisson,MA,2018,10/24/2018,15,436
+Denman,MA,2018,10/15/2018,16.5,1957
+DePasquale,MA,2018,10/12/2018,10.5,1107
+Diviacchi,MA,2018,10/18/2018,6,1051
+Dunbar,MA,2018,08/14/2018,18,2025
+Duplin,MA,2018,10/16/2018,21,1400
+Dweck-McMullen,DC,2018,12/05/2018,8.4,2466
+Edelman,MA,2018,10/12/2018,7.5,1937
+Edmonds,MA,2018,10/31/2018,3,2461
+Etemad-Gilbertson,MA,2018,10/25/2018,14.28,2173
+Feeney,MA,2018,08/06/2018,10.5,1722
+Fitz,MA,2018,10/15/2018,1.5,219
+Fraser,NY,2018,09/26/2018,30,2282
+Fritz,MA,2018,10/09/2018,1.5,402
+Fulkerson,MA,2018,10/22/2018,11,2002
+Gartner,NY,2018,08/06/2018,37.5,1054
+Gartner,NY,2018,08/06/2018,49.5,1409
+Gartner,NY,2018,08/06/2018,55.5,1806
+Gonthier,MA,2018,10/10/2018,1.5,2274
+Hamilton Gewirz,RI,2018,10/25/2018,19.5,1467
+Hamilton Gewirz,RI,2018,10/25/2018,33,1468
+Hamilton Gewirz,RI,2018,10/25/2018,25.5,1471
+Hamilton Gewirz,RI,2018,08/09/2018,10.5,1471
+Hamilton Gewirz,RI,2018,10/25/2018,30,1978
+Hamilton Gewirz,RI,2018,10/25/2018,34.5,1979
+Hamilton Gewirz,RI,2018,08/09/2018,18,1979
+Hannigan,MA,2018,08/13/2018,13.5,2252
+Harvard Business School,MA,2018,11/08/2018,16.5,1961
+Herrick,RI,2018,03/28/2018,10,1770
+Higgins,MA,2018,10/19/2018,21,2201
+Hostin,NY,2018,08/21/2018,27.3,2172
+Joy,NY,2018,09/27/2018,7,1584
+Kane,MA,2018,07/31/2018,24,111
+Kane,MA,2018,10/16/2018,25,308
+Katz,MA,2018,10/25/2018,15.12,2081
+Kavanaugh,MA,2018,10/12/2018,24,1851
+Keppel KBS,WA,2018,12/05/2018,9.24,2332
+Kessel,MA,2018,10/17/2018,13.5,1147
+Kostic,MA,2018,09/26/2018,12,205
+Kostic,MA,2018,09/26/2018,18,209
+Kremer,NY,2018,08/28/2018,5,1573
+Kristiansen,MA,2018,10/19/2018,61.5,353
+LaCasse,MA,2018,04/03/2018,6,2078
+Latham,MA,2018,10/10/2018,4.5,1868
+Law,MA,2018,10/10/2018,6,2464
+Lefurgy,CA,2018,10/15/2018,2.5,1501
+Lowell,MA,2018,07/19/2018,21.56,511
+Lowell,MA,2018,10/22/2018,15,1332
+Macau,MA,2018,10/23/2018,25,2043
+Macleod,MA,2018,10/23/2018,13,358
+Macleod,MA,2018,10/23/2018,7.5,359
+Maynard,MA,2018,04/03/2018,6,859
+McCarthy,MA,2018,11/27/2018,4.5,2324
+McCormack,CT,2018,09/26/2018,24,2241
+McCormack,CT,2018,09/26/2018,30,2283
+McCormack,CT,2018,07/16/2018,24,2283
+McGovern,MA,2018,10/09/2018,18.75,2040
+McPhee,MA,2018,08/06/2018,12,339
+Midsummer's Harvest,MA,2018,08/10/2018,15,1435
+Midsummer’s Harvest,CT,2018,07/16/2018,42,1794
+Midsummer’s Harvest,CT,2018,07/20/2018,30,1879
+Midsummer’s Harvest,CT,2018,07/16/2018,36,1928
+Midsummer’s Harvest,CT,2018,07/17/2018,10.5,1945
+Midsummer’s Harvest,CT,2018,07/17/2018,7.5,1988
+Midsummer’s Harvest,CT,2018,07/18/2018,9,2207
+Midsummer’s Harvest,CT,2018,07/16/2018,50.25,2241
+Midsummer’s Harvest,MA,2018,08/16/2018,6,28
+Midsummer’s Harvest,MA,2018,07/19/2018,12,33
+Midsummer’s Harvest,MA,2018,08/17/2018,18,41
+Midsummer’s Harvest,MA,2018,08/17/2018,25.5,42
+Midsummer’s Harvest,MA,2018,03/23/2018,9,42
+Midsummer’s Harvest,MA,2018,07/18/2018,8.625,48
+Midsummer’s Harvest,MA,2018,08/08/2018,9,83
+Midsummer’s Harvest,MA,2018,07/31/2018,6,113
+Midsummer’s Harvest,MA,2018,08/07/2018,18,114
+Midsummer’s Harvest,MA,2018,07/02/2018,12,114
+Midsummer’s Harvest,MA,2018,08/14/2018,13.5,116
+Midsummer’s Harvest,MA,2018,08/15/2018,12,119
+Midsummer’s Harvest,MA,2018,07/23/2018,12.375,130
+Midsummer’s Harvest,MA,2018,07/19/2018,7.5,141
+Midsummer’s Harvest,MA,2018,07/31/2018,7.5,207
+Midsummer’s Harvest,MA,2018,07/31/2018,18,209
+Midsummer’s Harvest,MA,2018,07/31/2018,9,210
+Midsummer’s Harvest,MA,2018,07/31/2018,21,211
+Midsummer’s Harvest,MA,2018,07/31/2018,12,213
+Midsummer’s Harvest,MA,2018,07/20/2018,26.73,276
+Midsummer’s Harvest,MA,2018,07/25/2018,13.5,290
+Midsummer’s Harvest,MA,2018,07/31/2018,7.5,308
+Midsummer’s Harvest,MA,2018,08/08/2018,9,318
+Midsummer’s Harvest,MA,2018,07/02/2018,27,318
+Midsummer’s Harvest,MA,2018,08/02/2018,9,323
+Midsummer’s Harvest,MA,2018,08/13/2018,12,352
+Midsummer’s Harvest,MA,2018,08/09/2018,21,359
+Midsummer’s Harvest,MA,2018,08/16/2018,4.5,365
+Midsummer’s Harvest,MA,2018,08/16/2018,6,365
+Midsummer’s Harvest,MA,2018,08/16/2018,9,366
+Midsummer’s Harvest,MA,2018,08/17/2018,18,378
+Midsummer’s Harvest,MA,2018,07/26/2018,12,391
+Midsummer’s Harvest,MA,2018,07/24/2018,4.5,402
+Midsummer’s Harvest,MA,2018,07/25/2018,10.5,416
+Midsummer’s Harvest,MA,2018,07/13/2018,12,422
+Midsummer’s Harvest,MA,2018,08/02/2018,18,426
+Midsummer’s Harvest,MA,2018,08/17/2018,22.5,436
+Midsummer’s Harvest,MA,2018,07/24/2018,4.5,441
+Midsummer’s Harvest,MA,2018,07/23/2018,45,455
+Midsummer’s Harvest,MA,2018,07/31/2018,15,462
+Midsummer’s Harvest,MA,2018,08/01/2018,13.5,464
+Midsummer’s Harvest,MA,2018,08/15/2018,9,501
+Midsummer’s Harvest,MA,2018,08/01/2018,13.5,508
+Midsummer’s Harvest,MA,2018,08/17/2018,10.5,569
+Midsummer’s Harvest,MA,2018,07/02/2018,4.5,569
+Midsummer’s Harvest,MA,2018,07/26/2018,12,649
+Midsummer’s Harvest,MA,2018,07/26/2018,24,650
+Midsummer’s Harvest,MA,2018,07/02/2018,10.5,684
+Midsummer’s Harvest,MA,2018,07/31/2018,4.5,688
+Midsummer’s Harvest,MA,2018,07/31/2018,5.25,752
+Midsummer’s Harvest,MA,2018,08/01/2018,6,753
+Midsummer’s Harvest,MA,2018,08/15/2018,10.5,756
+Midsummer’s Harvest,MA,2018,08/15/2018,10.5,757
+Midsummer’s Harvest,MA,2018,08/13/2018,9.24,790
+Midsummer’s Harvest,MA,2018,08/11/2018,15,811
+Midsummer’s Harvest,MA,2018,08/10/2018,7.5,814
+Midsummer’s Harvest,MA,2018,07/02/2018,10.5,824
+Midsummer’s Harvest,MA,2018,08/17/2018,19.5,845
+Midsummer’s Harvest,MA,2018,07/02/2018,21,991
+Midsummer’s Harvest,MA,2018,08/02/2018,15,994
+Midsummer’s Harvest,MA,2018,08/02/2018,12,1005
+Midsummer’s Harvest,MA,2018,08/02/2018,10.5,1013
+Midsummer’s Harvest,MA,2018,07/31/2018,11.62,1036
+Midsummer’s Harvest,MA,2018,07/31/2018,10.36,1037
+Midsummer’s Harvest,MA,2018,08/28/2018,6,1088
+Midsummer’s Harvest,MA,2018,08/08/2018,22.5,1089
+Midsummer’s Harvest,MA,2018,07/02/2018,24,1089
+Midsummer’s Harvest,MA,2018,08/14/2018,10.5,1123
+Midsummer’s Harvest,MA,2018,08/01/2018,1.5,1147
+Midsummer’s Harvest,MA,2018,07/24/2018,9,1157
+Midsummer’s Harvest,MA,2018,08/07/2018,19.5,1168
+Midsummer’s Harvest,MA,2018,07/02/2018,7.5,1168
+Midsummer’s Harvest,MA,2018,08/06/2018,7.5,1190
+Midsummer’s Harvest,MA,2018,08/07/2018,41.16,1193
+Midsummer’s Harvest,MA,2018,07/02/2018,21.84,1193
+Midsummer’s Harvest,MA,2018,07/06/2018,4.5,1198
+Midsummer’s Harvest,MA,2018,08/15/2018,3,1246
+Midsummer’s Harvest,MA,2018,07/12/2018,19.5,1246
+Midsummer’s Harvest,MA,2018,08/07/2018,9,1271
+Midsummer’s Harvest,MA,2018,07/19/2018,19.5,1274
+Midsummer’s Harvest,MA,2018,07/24/2018,19.5,1281
+Midsummer’s Harvest,MA,2018,08/12/2018,25.2,1287
+Midsummer’s Harvest,MA,2018,08/07/2018,19.5,1291
+Midsummer’s Harvest,MA,2018,07/02/2018,4.5,1291
+Midsummer’s Harvest,MA,2018,08/08/2018,9,1302
+Midsummer’s Harvest,MA,2018,07/02/2018,12,1353
+Midsummer’s Harvest,MA,2018,07/02/2018,28.5,1371
+Midsummer’s Harvest,MA,2018,07/25/2018,4.5,1384
+Midsummer’s Harvest,MA,2018,08/01/2018,13.5,1400
+Midsummer’s Harvest,MA,2018,08/01/2018,6,1416
+Midsummer’s Harvest,MA,2018,05/11/2018,22.5,1421
+Midsummer’s Harvest,MA,2018,08/15/2018,18,1456
+Midsummer’s Harvest,MA,2018,07/24/2018,12.375,1473
+Midsummer’s Harvest,MA,2018,08/01/2018,18,1499
+Midsummer’s Harvest,MA,2018,08/17/2018,6,1512
+Midsummer’s Harvest,MA,2018,07/27/2018,7.5,1515
+Midsummer’s Harvest,MA,2018,09/10/2018,7.5,1527
+Midsummer’s Harvest,MA,2018,07/19/2018,10.5,1569
+Midsummer’s Harvest,MA,2018,07/02/2018,9,1572
+Midsummer’s Harvest,MA,2018,08/02/2018,27,1574
+Midsummer’s Harvest,MA,2018,08/15/2018,10.5,1585
+Midsummer’s Harvest,MA,2018,07/26/2018,25.5,1673
+Midsummer’s Harvest,MA,2018,08/09/2018,15,1693
+Midsummer’s Harvest,MA,2018,07/19/2018,20.16,1695
+Midsummer’s Harvest,MA,2018,08/01/2018,7.5,1735
+Midsummer’s Harvest,MA,2018,08/15/2018,27,1749
+Midsummer’s Harvest,MA,2018,08/15/2018,9,1751
+Midsummer’s Harvest,MA,2018,08/01/2018,24,1754
+Midsummer’s Harvest,MA,2018,08/15/2018,22.5,1761
+Midsummer’s Harvest,MA,2018,08/14/2018,9,1762
+Midsummer’s Harvest,MA,2018,07/24/2018,15,1768
+Midsummer’s Harvest,MA,2018,07/24/2018,6.375,1815
+Midsummer’s Harvest,MA,2018,07/24/2018,19.5,1841
+Midsummer’s Harvest,MA,2018,08/06/2018,15,1850
+Midsummer’s Harvest,MA,2018,08/01/2018,4.5,1851
+Midsummer’s Harvest,MA,2018,07/26/2018,21,1864
+Midsummer’s Harvest,MA,2018,07/13/2018,16.5,1866
+Midsummer’s Harvest,MA,2018,08/08/2018,21,1882
+Midsummer’s Harvest,MA,2018,07/31/2018,9,1884
+Midsummer’s Harvest,MA,2018,08/02/2018,3,1935
+Midsummer’s Harvest,MA,2018,07/25/2018,7.5,1937
+Midsummer’s Harvest,MA,2018,08/14/2018,15,1938
+Midsummer’s Harvest,MA,2018,08/14/2018,22.5,1939
+Midsummer’s Harvest,MA,2018,07/12/2018,4.5,1944
+Midsummer’s Harvest,MA,2018,08/01/2018,25.5,1956
+Midsummer’s Harvest,MA,2018,07/23/2018,7.5,1961
+Midsummer’s Harvest,MA,2018,08/14/2018,10.5,1971
+Midsummer’s Harvest,MA,2018,08/02/2018,10.5,1974
+Midsummer’s Harvest,MA,2018,07/19/2018,13.5,1992
+Midsummer’s Harvest,MA,2018,08/14/2018,13.5,1995
+Midsummer’s Harvest,MA,2018,08/07/2018,21,1996
+Midsummer’s Harvest,MA,2018,07/31/2018,27,1997
+Midsummer’s Harvest,MA,2018,08/07/2018,16.5,2014
+Midsummer’s Harvest,MA,2018,07/02/2018,10.5,2014
+Midsummer’s Harvest,MA,2018,08/14/2018,22.5,2027
+Midsummer’s Harvest,MA,2018,08/14/2018,7.5,2029
+Midsummer’s Harvest,MA,2018,06/27/2018,21,2032
+Midsummer’s Harvest,MA,2018,07/26/2018,4.5,2038
+Midsummer’s Harvest,MA,2018,08/22/2018,16.5,2044
+Midsummer’s Harvest,MA,2018,08/14/2018,27,2070
+Midsummer’s Harvest,MA,2018,07/19/2018,10.5,2076
+Midsummer’s Harvest,MA,2018,08/07/2018,4.5,2083
+Midsummer’s Harvest,MA,2018,08/02/2018,21.84,2128
+Midsummer’s Harvest,MA,2018,06/25/2018,18,2138
+Midsummer’s Harvest,MA,2018,07/31/2018,26,2161
+Midsummer’s Harvest,MA,2018,07/24/2018,18,2176
+Midsummer’s Harvest,MA,2018,08/15/2018,11.25,2177
+Midsummer’s Harvest,MA,2018,08/02/2018,27,2201
+Midsummer’s Harvest,MA,2018,08/08/2018,15,2209
+Midsummer’s Harvest,MA,2018,07/02/2018,9,2246
+Midsummer’s Harvest,MA,2018,07/26/2018,23.5,2249
+Midsummer’s Harvest,MA,2018,08/15/2018,12.6,2253
+Midsummer’s Harvest,MA,2018,07/24/2018,15,2259
+Midsummer’s Harvest,MA,2018,08/01/2018,18.375,2264
+Midsummer’s Harvest,MA,2018,07/24/2018,19.5,2273
+Midsummer’s Harvest,MA,2018,08/16/2018,27,2277
+Midsummer’s Harvest,MA,2018,08/03/2018,7.5,2284
+Midsummer’s Harvest,MA,2018,07/25/2018,6,2299
+Midsummer’s Harvest,MA,2018,07/30/2018,9,2343
+Midsummer’s Harvest,MA,2018,08/23/2018,6,2344
+Midsummer’s Harvest,MA,2018,08/10/2018,3,2368
+Midsummer’s Harvest,MA,2018,08/23/2018,13.5,2420
+Midsummer’s Harvest,ME,2018,07/27/2018,15,1509
+Midsummer’s Harvest,ME,2018,07/27/2018,9,1510
+Midsummer’s Harvest,ME,2018,07/27/2018,4.5,1692
+Midsummer’s Harvest,ME,2018,07/27/2018,2,2219
+Midsummer’s Harvest,ME,2018,07/27/2018,6.75,2363
+Midsummer’s Harvest,ME,2018,07/27/2018,10.5,2381
+Midsummer’s Harvest,NH,2018,07/23/2018,6,850
+Midsummer’s Harvest,NH,2018,07/26/2018,9,974
+Midsummer’s Harvest,NH,2018,07/24/2018,9,1900
+Midsummer’s Harvest,NH,2018,07/26/2018,5.625,1990
+Midsummer’s Harvest,NJ,2018,07/19/2018,7.5,1504
+Midsummer’s Harvest,NJ,2018,07/31/2018,18,2004
+Midsummer’s Harvest,NY,2018,08/17/2018,16.5,1458
+Midsummer’s Harvest,NY,2018,06/29/2018,10.125,1458
+Midsummer’s Harvest,NY,2018,07/20/2018,27,1584
+Midsummer’s Harvest,NY,2018,08/16/2018,14.34,1699
+Midsummer’s Harvest,NY,2018,08/16/2018,13.5,1700
+Midsummer’s Harvest,NY,2018,07/17/2018,27,1874
+Midsummer’s Harvest,NY,2018,08/06/2018,72,1976
+Midsummer’s Harvest,NY,2018,08/06/2018,85.5,2135
+Midsummer’s Harvest,NY,2018,07/16/2018,46,2172
+Midsummer’s Harvest,NY,2018,07/17/2018,15,2276
+Midsummer’s Harvest,NY,2018,07/20/2018,25.5,2287
+Midsummer’s Harvest,NY,2018,08/15/2018,7.5,2300
+Midsummer’s Harvest,RI,2018,08/09/2018,22.5,1132
+Midsummer’s Harvest,RI,2018,08/09/2018,7.5,1197
+Midsummer’s Harvest,RI,2018,08/09/2018,10.92,1379
+Midsummer’s Harvest,RI,2018,08/09/2018,40,1468
+Midsummer’s Harvest,RI,2018,08/09/2018,15,1563
+Midsummer’s Harvest,RI,2018,08/09/2018,6,1926
+Midsummer’s Harvest,RI,2018,08/09/2018,8.4,2210
+Midsummers Harvest,MA,2018,08/08/2018,31.08,2173
+Millard,NY,2018,09/26/2018,25.5,2276
+Miner,MA,2018,10/15/2018,18,1693
+Myers,MA,2018,10/04/2018,16.5,30
+Naish,MA,2018,10/22/2018,7.5,121
+Naughton,MA,2018,08/13/2018,15,863
+Nelson,MA,2018,10/18/2018,18,1743
+Nelson,MA,2018,08/21/2018,13.5,1743
+Nicholson,MA,2018,10/09/2018,9,1973
+NO LABELS,MA,2018,08/14/2018,16.875,1707
+Not Ready-TBD,MA,2018,07/20/2018,6.58,276
+O’Connor,MA,2018,10/19/2018,12,426
+O’Connor,MA,2018,02/27/2018,7.5,441
+Olson,MA,2018,10/15/2018,12,27
+Oracle America,CA,2018,09/17/2018,15.375,2373
+Ordway,MA,2018,11/01/2018,25.125,1123
+Overlook Bees Co.,MA,2018,08/29/2018,5.04,2361
+Palmer,CA,2018,12/05/2018,4.5,2178
+Parker,MA,2018,02/27/2018,15,33
+Petipas,MA,2018,10/15/2018,3,94
+Pizzi,MA,2018,10/16/2018,13.5,2161
+Pratt,MA,2018,10/19/2018,9,176
+Pratt,MA,2018,10/19/2018,9,1574
+Reed,MA,2018,10/30/2018,13.5,365
+Reed,MA,2018,10/30/2018,15,406
+Reid,MA,2018,10/17/2018,3,562
+Remsen,MA,2018,10/09/2018,12.375,2203
+Reservoir Place LLC,MA,2018,10/16/2018,5.18,614
+Reservoir Place LLC,MA,2018,10/16/2018,10.08,615
+Resnick,NY,2018,09/26/2018,23.25,1874
+Roche,MA,2018,10/19/2018,7.5,994
+Rogal,MA,2018,08/14/2018,17.625,1706
+Rohrbach,MA,2018,10/15/2018,16.5,170
+Romano,MA,2018,10/31/2018,7.5,2024
+Romano,MA,2018,08/14/2018,22.5,2024
+Rooney,MA,2018,10/17/2018,15,2286
+Rosenthall,MA,2018,08/14/2018,22.5,989
+Rossignol,MA,2018,10/24/2018,7.5,814
+Seif,MA,2018,10/25/2018,15.12,1748
+Silverstone,MA,2018,10/09/2018,13.5,2314
+Smythe,MA,2018,11/01/2018,9,116
+Special Labels,MA,2018,10/01/2018,9.1,497
+Special Labels,MA,2018,07/23/2018,15.12,497
+Special Labels,MA,2018,03/13/2018,2.5,497
+Special Labels,MA,2018,10/01/2018,8.54,500
+Spring Harvest,ME,2018,03/10/2018,9,1330
+Spring’s Return,MA,2018,03/23/2018,4.5,27
+Spring’s Return,MA,2018,03/23/2018,16.5,28
+Spring’s Return,MA,2018,05/16/2018,10.5,30
+Spring’s Return,MA,2018,05/18/2018,6,112
+Spring’s Return,MA,2018,03/29/2018,4.5,126
+Spring’s Return,MA,2018,04/23/2018,1.875,182
+Spring’s Return,MA,2018,04/18/2018,13.5,185
+Spring’s Return,MA,2018,05/12/2018,6,192
+Spring’s Return,MA,2018,03/26/2018,6,230
+Spring’s Return,MA,2018,05/24/2018,1.5,349
+Spring’s Return,MA,2018,03/15/2018,3,349
+Spring’s Return,MA,2018,03/23/2018,3,508
+Spring’s Return,MA,2018,03/23/2018,10.5,524
+Spring’s Return,MA,2018,04/04/2018,8.625,651
+Spring’s Return,MA,2018,03/19/2018,12,679
+Spring’s Return,MA,2018,03/19/2018,6,680
+Spring’s Return,MA,2018,03/22/2018,15,684
+Spring’s Return,MA,2018,04/11/2018,3,784
+Spring’s Return,MA,2018,03/29/2018,10.5,989
+Spring’s Return,MA,2018,03/23/2018,4.5,1004
+Spring’s Return,MA,2018,05/18/2018,5.6,1041
+Spring’s Return,MA,2018,03/23/2018,21,1051
+Spring’s Return,MA,2018,03/20/2018,4.5,1089
+Spring’s Return,MA,2018,03/28/2018,18,1150
+Spring’s Return,MA,2018,03/22/2018,6,1168
+Spring’s Return,MA,2018,04/09/2018,9,1252
+Spring’s Return,MA,2018,03/23/2018,13.5,1693
+Spring’s Return,MA,2018,03/23/2018,19.5,1729
+Spring’s Return,MA,2018,03/30/2018,7.5,1751
+Spring’s Return,MA,2018,03/27/2018,13.5,1753
+Spring’s Return,MA,2018,04/03/2018,18,1758
+Spring’s Return,MA,2018,03/23/2018,4.5,1922
+Spring’s Return,MA,2018,03/27/2018,6,1938
+Spring’s Return,MA,2018,04/10/2018,4.5,1939
+Spring’s Return,MA,2018,03/27/2018,9,1948
+Spring’s Return,MA,2018,04/18/2018,6,1961
+Spring’s Return,MA,2018,03/29/2018,10.5,1995
+Spring’s Return,MA,2018,04/10/2018,3,1996
+Spring’s Return,MA,2018,03/29/2018,22.5,2029
+Spring’s Return,MA,2018,03/23/2018,3,2055
+Spring’s Return,MA,2018,03/29/2018,12,2070
+Spring’s Return,MA,2018,03/27/2018,21,2138
+Spring’s Return,MA,2018,05/24/2018,12,2353
+Spring’s Return,RI,2018,04/18/2018,36,801
+Spring’s Return,RI,2018,03/28/2018,67.5,1128
+Spring’s Return,RI,2018,03/28/2018,36,1467
+Spring’s Return,RI,2018,03/20/2018,6,1506
+Spring’s Return,RI,2018,03/28/2018,21,1563
+Springs Return,MA,2018,03/22/2018,4.5,1190
+Springs Return,MA,2018,03/30/2018,19.5,1761
+Stonehill College,MA,2018,11/02/2018,10.5,410
+Tranchina,NY,2018,09/21/2018,8.6,1458
+Wakeman,MA,2018,10/12/2018,3.75,2281
+Water and Sewer Department,MA,2018,10/10/2018,18,1673
+Weston Quarry LLC,MA,2018,10/16/2018,11.2,612
+Weston Quarry LLC,MA,2018,10/16/2018,22.4,613
+White,RI,2018,10/23/2018,22.5,1563
+Wilsker,MA,2018,10/25/2018,13.5,1291
+Winter’s Bounty,CA,2018,02/26/2018,30,2007
+Winter’s Bounty,MA,2018,03/06/2018,16.5,353
+Winter’s Bounty,MA,2018,03/15/2018,16.5,402
+Winter’s Bounty,MA,2018,03/15/2018,3,437
+Winter’s Bounty,MA,2018,03/14/2018,12,454
+Winter’s Bounty,MA,2018,02/01/2018,3,520
+Winter’s Bounty,MA,2018,03/06/2018,22.5,529
+Winter’s Bounty,MA,2018,03/19/2018,19.5,991
+Winter’s Bounty,MA,2018,03/19/2018,10.5,992
+Winter’s Bounty,MA,2018,03/14/2018,9,994
+Winter’s Bounty,MA,2018,02/27/2018,13.5,1274
+Winter’s Bounty,MA,2018,03/19/2018,3,1302
+Winter’s Bounty,MA,2018,03/19/2018,9,1371
+Winter’s Bounty,MA,2018,03/06/2018,4.5,1403
+Winter’s Bounty,MA,2018,02/01/2018,4.5,1574
+Winter’s Bounty,MA,2018,02/26/2018,9.24,1695
+Winter’s Bounty,MA,2018,02/27/2018,24.75,1725
+Winter’s Bounty,MA,2018,03/05/2018,13.5,1759
+Winter’s Bounty,MA,2018,02/04/2018,6,1762
+Winter’s Bounty,MA,2018,03/15/2018,22.5,1768
+Winter’s Bounty,MA,2018,02/26/2018,24,1815
+Winter’s Bounty,MA,2018,01/16/2018,1.5,1849
+Winter’s Bounty,MA,2018,03/08/2018,3,1864
+Winter’s Bounty,MA,2018,02/12/2018,4.5,1865
+Winter’s Bounty,MA,2018,03/13/2018,1.5,1868
+Winter’s Bounty,MA,2018,03/19/2018,3.75,1953
+Winter’s Bounty,MA,2018,02/01/2018,3,2012
+Winter’s Bounty,MA,2018,03/06/2018,10.5,2038
+Wolf,MA,2018,10/19/2018,4.2,2284
+Wyckoff,CT,2018,10/06/2018,13.5,1257
+NA,MA,2018,07/31/2018,11.62,613
+NA,MA,2018,07/31/2018,12.88,615
+NA,MA,2018,10/03/2018,30.375,1815
+NA,RI,2018,08/09/2018,16.5,1130
