@@ -1,0 +1,9 @@
+row,col,expected,actual,file
+708,fHiveID,an integer,",Atlantic Beach,Kremer ,NY,11509,11,,Kremer,Motti Kremer",'csv_harvest_tog.csv'
+1611,fHiveID,an integer,",Atlantic Beach,Kremer ,NY,11509,11,,Kremer,Motti Kremer",'csv_harvest_tog.csv'
+1769,fHiveID,an integer,",02/21/2017,02/21/2017,12/21/2016,,Winter’s Bounty,10.5,19259.942,Delivered,,Delivered,2016,11,Quincy,1504,672,30 Madison Ave ,Quincy,*Melley,MA,02169,11,,Melley,John Melley",'csv_harvest_tog.csv'
+1937,fHiveID,an integer,",Portland,Harrington,ME,04102,11,,Dyer,Matt Dyer",'csv_harvest_tog.csv'
+1950,fHiveID,an integer,",Portland,Harrington,ME,04102,11,,Dyer,Matt Dyer",'csv_harvest_tog.csv'
+2066,fHiveID,an integer,",Portland,Harrington,ME,04102,11,,Dyer,Matt Dyer",'csv_harvest_tog.csv'
+2070,fHiveID,an integer,",Portland,Harrington,ME,04102,11,,Dyer,Matt Dyer",'csv_harvest_tog.csv'
+150029,fHiveID,an integer,",Portland,Harrington,ME,04102,11,,Dyer,Matt Dyer",'csv_harvest_tog.csv'
