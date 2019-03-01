@@ -62,7 +62,7 @@ tail(df,20)
 
 ```{r}
 # Subset missing NA's by Title to get an idea of cleanup
-missing_na <- df %>% summarize(MissingHiveID=sum(is.na(HiveID)),MissingTitle=sum(is.na(Title)),MissingYear=sum(is.na(HarvestYear)),MissingDate=sum(is.na(HarvestDate)))
+missing_na <- df %>% summarize(MissingHiveID=sum(is.na(HiveID)),MissingTitle=sum(is.na(Title)),MissingYear=sum(is.na(HarvestYear)),MissingDate=sum(is.na(HarvestDate)),Weight=sum(is.na(Weight)),HarvestID=sum(is.na(HarvestID)),VisitID=sum(is.na(VisitID)))
 missing_na
 ```
 
