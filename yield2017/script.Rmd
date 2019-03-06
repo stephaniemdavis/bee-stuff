@@ -66,7 +66,7 @@ missing_na <- df %>% summarize(MissingHiveID=sum(is.na(HiveID)),MissingTitle=sum
 missing_na
 ```
 
-Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
 ```{r}
 # Identify the number of harvests in 2017 with positive Weight figures
 # y_2017 is the working dataframe
