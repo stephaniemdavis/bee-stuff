@@ -1,0 +1,85 @@
+---
+title: "R Notebook"
+output: html_notebook
+# BBC 2017 honey yield
+# Stephanie M. Davis - March 1, 2019
+# Resides @ github.com/stephaniemdavis/bee-stuff/yield2017
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+ 
+```{r}
+# read appropriate libraries
+library(tidyverse)
+library(lubridate)
+```
+```{r}
+# read the harvest file
+df_2017 <- read_csv("csv_harvest_tog.csv",col_names = c("fHiveID","fInvoiceID","fRegionID","fVisitID","pHarvestID","BottleCount","BottleSize","BottleType","BottleDate","DeliverDate","HarvestDate","Field55","Title","Weight","WeigthRunning","HarvestStatus","ClosedFlag","duplicateHarvestStatus","HarvestYear","duplicateClientID","Cluster","inhouseHiveID","HiveID","Address","City","HiveName","State","Zipcode","ClientID","CompanyName","LastName","FullName"), col_types = cols(
+    fHiveID=col_number(),
+    fInvoiceID=col_number(),
+    fRegionID=col_number(),
+    fVisitID=col_number(),
+    pHarvestID=col_number(),
+    BottleCount=col_number(),
+    BottleSize=col_number(),
+    BottleType=col_character(),
+    BottleDate=col_character(),
+    DeliverDate=col_character(),
+    HarvestDate=col_character(),
+    Field55=col_skip(),
+    Title=col_character(),
+    Weight=col_number(),
+    WeightRunning=col_number(),
+    HarvestStatus=col_character(),
+    ClosedFlag=col_character(),
+    duplicateHarvestStatus=col_character(),
+    HarvestYear=col_character(),
+    duplicateClientID=col_integer(),
+    Cluster=col_character(),
+    inhouseHiveID=col_integer(),
+    HiveID=col_integer(),
+    Address=col_character(),
+    City=col_character(),
+    HiveName=col_character(),
+    State=col_character(),
+    Zipcode=col_character(),
+    ClientID=col_number(),
+    CompanyName=col_character(),
+    LastName=col_character(),
+    FullName=col_character()
+),skip = 1)
+
+```
+
+```{r}
+# Pare down df_2017 to essential columns,rename them, port result to df object
+df <- select(df_2017,HiveID,Title,HarvestYear,HarvestDate,Weight,HarvestID=pHarvestID,VisitID=fVisitID) 
+head(df,20)
+tail(df,20)
+```
+
+```{r}
+# Subset missing NA's by Title to get an idea of cleanup
+missing_na <- df %>% summarize(MissingHiveID=sum(is.na(HiveID)),MissingTitle=sum(is.na(Title)),MissingYear=sum(is.na(HarvestYear)),MissingDate=sum(is.na(HarvestDate)),Weight=sum(is.na(Weight)),HarvestID=sum(is.na(HarvestID)),VisitID=sum(is.na(VisitID)))
+missing_na
+```
+
+
+```{r}
+# Identify the number of harvests in 2017 with positive Weight figures
+# y_2017 is the working dataframe
+
+y_2017 <- df_2017 %>% filter(HarvestYear == "2017" & Weight >0) %>% arrange(desc(Weight))
+y_2017
+```
+```{r}
+# Preliminary harvest in pounds (save as temp_y_2017)
+temp_y_2017 <- y_2017 %>% summarize('Total Output(lbs.)' = sum(Weight))
+temp_y_2017
+```
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
