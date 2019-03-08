@@ -1,0 +1,4 @@
+## Blue Zones ##
+#### ...are geographical areas characterized by above-average life expectancies and qualitatively better life experiences. In [a June 2004 Journal of Experimental Gerontology paper](https://halshs.archives-ouvertes.fr/halshs-00175541/document),researchers Poulain, Pes, Grasland, et.al., observed the phenomenon in the Ogliastra region of Sardinia. Since then, similar results have been observed in Okinanwa - Japan, Nicoya - Costa Rica, and Ikaria Greece.
+#### The "Bee Blue Zones" project is designed to identify _where and why_ global honey bee populations are thriving. The implications of this research are most noticeably relevant to the subjects of food security and agricultrual stability.
+The research is being conducted through the [Urban Beekeeping Laboratory and Bee Sanctuary](https://urbanbeelab.org/).
